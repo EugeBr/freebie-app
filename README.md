@@ -80,7 +80,7 @@ Databank: MongoDB
 
 - GITHUB LINK : https://github.com/Ornella-e/project2-app.git
 
-- HEROKU LINK : https://freebie-a.herokuapp.com/
+- RENDER LINK : https://freebie-app.onrender.com/
 
 - PRESENTATION SLIDES : https://prezi.com/view/1FL9WVcciIhRugAbDBBb/
 
