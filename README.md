@@ -3,7 +3,7 @@
 
 ## DESCRIPTION: 
 
-Freebie is an application that conects users looking for free products and users posting products for free. 
+Freebie is an application that connects users looking for free products and users posting products for free. 
 Our motto is "One man's trash is another man's treasure".
 In the application you will find all kind of articles, which can be a book, a lamp or anything else. The app is available throughout Europe.
 It is mandatory to create an account in order to use the post, question and request options. 
